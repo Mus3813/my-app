@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mus3813/my-app.git/static/css/main.d16098b0.chunk.css",
+    "main.js": "/Mus3813/my-app.git/static/js/main.51eecceb.chunk.js",
+    "main.js.map": "/Mus3813/my-app.git/static/js/main.51eecceb.chunk.js.map",
+    "runtime-main.js": "/Mus3813/my-app.git/static/js/runtime-main.91170481.js",
+    "runtime-main.js.map": "/Mus3813/my-app.git/static/js/runtime-main.91170481.js.map",
+    "static/js/2.a9771fa8.chunk.js": "/Mus3813/my-app.git/static/js/2.a9771fa8.chunk.js",
+    "static/js/2.a9771fa8.chunk.js.map": "/Mus3813/my-app.git/static/js/2.a9771fa8.chunk.js.map",
+    "index.html": "/Mus3813/my-app.git/index.html",
+    "static/css/main.d16098b0.chunk.css.map": "/Mus3813/my-app.git/static/css/main.d16098b0.chunk.css.map",
+    "static/js/2.a9771fa8.chunk.js.LICENSE.txt": "/Mus3813/my-app.git/static/js/2.a9771fa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91170481.js",
+    "static/js/2.a9771fa8.chunk.js",
+    "static/css/main.d16098b0.chunk.css",
+    "static/js/main.51eecceb.chunk.js"
+  ]
+}
